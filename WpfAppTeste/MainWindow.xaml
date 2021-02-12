@@ -10,7 +10,7 @@
         Title="Teste Core" Height="450" Width="800">
     <Canvas>
         <iconPacks:PackIconFeatherIcons Kind="Airplay" Height="50" Width="59" Margin="40,22,0,0" />
-        <Button Style="{DynamicResource MahApps.Styles.Button.Dialogs.Accent}" Controls:ControlsHelper.CornerRadius="10" Click="Button_Click" Canvas.Left="80" Canvas.Top="162" Width="236">OK</Button>
+        <Button Style="{DynamicResource MahApps.Styles.Button.Dialogs.Accent}" Controls:ControlsHelper.CornerRadius="10" Click="Button_Click" Canvas.Left="80" Canvas.Top="152" Width="236">OK</Button>
         <Controls:ColorPicker Canvas.Top="108" Width="236" Canvas.Left="80"/>
     </Canvas>
 </Controls:MetroWindow>
